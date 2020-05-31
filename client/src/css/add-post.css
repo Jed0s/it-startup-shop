@@ -1,0 +1,43 @@
+.container-ap {
+    margin: 0 auto;
+    text-align: center;
+}
+.container-ap h2 {
+    margin-top: 15vh;
+}
+.container-ap p {
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}
+.form-ap {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form-ap input {
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-bottom: 1vh;
+    text-align: center;
+}
+.form-ap textarea {
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-bottom: 1vh;
+    text-align: center;
+}
+.sDesc-ap {
+    height: 100px;
+    width: 32vw;
+}
+.fDesc-ap {
+    height: 150px;
+    width: 32vw;
+}
+.input-ap {
+    height: 30px;
+    width: 15vw;
+}

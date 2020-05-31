@@ -1,0 +1,5 @@
+const CLIENT_PORT = 3002;
+const SERVER_PORT = 3002;
+
+
+export {CLIENT_PORT, SERVER_PORT}

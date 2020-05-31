@@ -1,0 +1,122 @@
+.h1-sp {
+    padding-top: 5vw;
+    text-align: center;
+}
+.post-header-sp {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.post-header-sp h1 {
+    margin-bottom: 10px;
+}
+.post-header2-sp {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.post-header2-sp p {
+    margin-top: 5px;
+}
+.width-70vw {
+    width: 50vw;
+}
+.selected-post-sp {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 150px;
+}
+.selected-post-sp hr {
+    margin: 20px 0 20px 0;
+}
+
+.contact-sp {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.contact-sp button {
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 30px;
+    width: 10vw;
+}
+
+.container-sp {
+    background-color: white;
+    border: 2px solid #f2f2f2;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 55vw;
+}
+.post-sp {
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+}
+.post-info-sp {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    width: 70vh;
+}
+.post-info-sp h2 {
+    text-transform: capitalize;
+}
+.post-info-sp p {
+    margin-top: 5px;
+}
+.rectangle-280-sp {
+    background-color: black;
+    height: 150px;
+    margin: 10px 0 10px 20px;
+    width: 150px;
+}
+.background-color-sp {
+    background-color: #fffaf8;
+}
+.background-color-post-sp {
+    background-color: white ;
+}
+.left-img-sp {
+    float: left;
+}
+.search-sp {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 30px 0 30px 0;
+}
+.search-sp input {
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    height: 40px;
+    margin: 0 10px 0 10px;
+    font-size: 16px;
+    text-align: center;
+}
+.searchInput-sp {
+    width: 300px;
+}
+.searchSubmit-sp {
+    width: 100px;
+}
+.hr-sp {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 55vw;
+}

@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+}
+.navbar li {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 5vh;
+    margin-right: 1px;
+    font-size: 15px;
+    opacity: 0.7;
+    text-transform: uppercase;
+    width: 100px;
+}
+.navbar-username {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+hr {
+    opacity: 0.5;
+}
+
+/*
+.container margin: 0 auto - баг(div сдвигается слегка вправо при смене home-page на любудю другую)
+*/

@@ -1,0 +1,14 @@
+{
+  "name": "start-up-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "scripts": {
+    "start": "concurrently \"cd backend && nodemon server.js\" \"cd client && npm start\""
+  },
+  "author": "",
+  "license": "ISC"
+}
